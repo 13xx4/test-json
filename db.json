@@ -1,7 +1,7 @@
 {
-  "service": "up",
+  "service": "down",
   "nodes": {
-    "up": 12,
+    "up": 3,
     "down": 3,
     "outdated": 1
   }
